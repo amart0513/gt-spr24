@@ -32,6 +32,7 @@ This project aims to automate various aspects of game theory research and analys
 1. Import the necessary packages:
 
 import com.yourpackage.gameTheory.*;
+
 // Example: Create a normal-form game
 NormalFormGame game = new NormalFormGame(new String[]{"Player 1", "Player 2"},
                                          new String[][]{{"A", "B"}, {"C", "D"}},
